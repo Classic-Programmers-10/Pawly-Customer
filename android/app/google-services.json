@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "517853377290",
+    "project_id": "pawlly-474f0",
+    "storage_bucket": "pawlly-474f0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517853377290:android:58d667ea9d96d6aae000f3",
+        "android_client_info": {
+          "package_name": "com.classic.userpetcare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZYoZ1fT1pz0oOi-hjYwkN2VEo9IRQBv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517853377290:android:1feacfca588445b6e000f3",
+        "android_client_info": {
+          "package_name": "com.pawlly.employee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZYoZ1fT1pz0oOi-hjYwkN2VEo9IRQBv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
