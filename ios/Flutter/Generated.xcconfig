@@ -1,6 +1,6 @@
 // This is a generated file; do not edit or check into version control.
-FLUTTER_ROOT=/Users/mac/Desktop/Flutter/FlutterSDK/flutter
-FLUTTER_APPLICATION_PATH=/Users/mac/Desktop/Flutter/FlutterProjects/pawlly_app_source_code/customer-app/pawlly-flutter-app-v2.2.6
+FLUTTER_ROOT=/Users/feline/Desktop/DEV/Flutter/flutter
+FLUTTER_APPLICATION_PATH=/Users/feline/Desktop/Classic Projects/pawly customer
 COCOAPODS_PARALLEL_CODE_SIGN=true
 FLUTTER_TARGET=lib/main.dart
 FLUTTER_BUILD_DIR=build

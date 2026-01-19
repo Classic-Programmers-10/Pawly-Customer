@@ -1,7 +1,7 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
-export "FLUTTER_ROOT=/Users/mac/Desktop/Flutter/FlutterSDK/flutter"
-export "FLUTTER_APPLICATION_PATH=/Users/mac/Desktop/Flutter/FlutterProjects/pawlly_app_source_code/customer-app/pawlly-flutter-app-v2.2.6"
+export "FLUTTER_ROOT=/Users/feline/Desktop/DEV/Flutter/flutter"
+export "FLUTTER_APPLICATION_PATH=/Users/feline/Desktop/Classic Projects/pawly customer"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
 export "FLUTTER_TARGET=lib/main.dart"
 export "FLUTTER_BUILD_DIR=build"
