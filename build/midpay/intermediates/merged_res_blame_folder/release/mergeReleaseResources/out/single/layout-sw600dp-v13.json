@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout-sw600dp-v13/mtrl_layout_snackbar.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/layout-sw600dp-v13/mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/layout-sw600dp-v13/design_layout_snackbar.xml"
+    }
+]

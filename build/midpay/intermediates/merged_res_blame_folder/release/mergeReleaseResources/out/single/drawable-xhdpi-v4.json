@@ -1,0 +1,626 @@
+[
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_gopay.png",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_gopay.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/abc_ic_star_black_48dp.png",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable-xhdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_no_gopay.png",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_no_gopay.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_call_decline_low.png",
+        "source": "id.kakzaki.midpay-core-1.13.1-3:/drawable-xhdpi-v4/ic_call_decline_low.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_call_answer_video_low.png",
+        "source": "id.kakzaki.midpay-core-1.13.1-3:/drawable-xhdpi-v4/ic_call_answer_video_low.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_sandbox_badge.png",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_sandbox_badge.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_jcb.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_jcb.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_atm.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_atm.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_kioson.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_kioson.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_chevron_down.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_chevron_down.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_danamon_online.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_danamon_online.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_offer_fail.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_offer_fail.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_expand_more.png",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_expand_more.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/design_ic_visibility.png",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/drawable-xhdpi-v4/design_ic_visibility.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_alfamidi.png",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_alfamidi.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_mandiri_bill_payment2.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_mandiri_bill_payment2.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_veritrans.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_veritrans.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/bersama_preview.png",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/bersama_preview.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/bni.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/bni.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/cvv_dialog_image.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/cvv_dialog_image.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_promo.png",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_promo.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/prima_preview.png",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/prima_preview.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/alto_atm.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/alto_atm.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_credit_4.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_credit_4.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_view.png",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_view.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "id.kakzaki.midpay-jetified-play-services-base-15.0.1-20:/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/abc_list_focused_holo.9.png",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable-xhdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/badge_amex.png",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/badge_amex.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_scan_cam.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_scan_cam.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/notification_bg_low_normal.9.png",
+        "source": "id.kakzaki.midpay-core-1.13.1-3:/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_pay_without_bank_point.png",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_pay_without_bank_point.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_mandiri_instrcn.png",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_mandiri_instrcn.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/abc_ic_star_black_36dp.png",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable-xhdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/alto_preview.png",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/alto_preview.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_credit.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_credit.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/badge_jcb.png",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/badge_jcb.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/abc_ic_star_half_black_48dp.png",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable-xhdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_gci.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_gci.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_plus_new.png",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_plus_new.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_alfamart.png",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_alfamart.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/cimb.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/cimb.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/googleg_standard_color_18.png",
+        "source": "id.kakzaki.midpay-jetified-play-services-base-15.0.1-20:/drawable-xhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_xl.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_xl.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_delete_black.png",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_delete_black.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_akulaku.png",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_akulaku.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/bri.png",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/bri.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_telkomsel.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_telkomsel.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_gojek.png",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_gojek.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_bni.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_bni.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_arrow_right.png",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_arrow_right.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_amex.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_amex.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/mandiri_badge.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/mandiri_badge.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_indomaret.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_indomaret.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_pending.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_pending.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_dark.png",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_uob.png",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_uob.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_credit_3.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_credit_3.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_expand_less.png",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_expand_less.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_back.png",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_back.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_call_decline.png",
+        "source": "id.kakzaki.midpay-core-1.13.1-3:/drawable-xhdpi-v4/ic_call_decline.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_dandan.png",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_dandan.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_call_answer_video.png",
+        "source": "id.kakzaki.midpay-core-1.13.1-3:/drawable-xhdpi-v4/ic_call_answer_video.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/googleg_disabled_color_18.png",
+        "source": "id.kakzaki.midpay-jetified-play-services-base-15.0.1-20:/drawable-xhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_token_key.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_token_key.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/badge_default.png",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/badge_default.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "id.kakzaki.midpay-jetified-play-services-base-15.0.1-20:/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_dark.png",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_reload.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_reload.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/bni_badge.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/bni_badge.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_sms.png",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_sms.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_klikbca.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_klikbca.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_gopay_scan.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_gopay_scan.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_offer_success.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_offer_success.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/abc_ic_star_half_black_36dp.png",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable-xhdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_arrow_right_white.png",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_arrow_right_white.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "id.kakzaki.midpay-core-1.13.1-3:/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_gopay_white.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_gopay_white.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_chevron_up.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_chevron_up.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_hints.png",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_hints.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/mandiri.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/mandiri.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_gopay_qr.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_gopay_qr.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/bca.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/bca.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_call_answer.png",
+        "source": "id.kakzaki.midpay-core-1.13.1-3:/drawable-xhdpi-v4/ic_call_answer.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/alfamart.png",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/alfamart.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_klikpay.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_klikpay.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_light.png",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/prima_atm.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/prima_atm.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/dandan.png",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/dandan.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_amount_detail.png",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_amount_detail.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_mandiri_e_cash.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_mandiri_e_cash.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_mastercard.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_mastercard.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_visa.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_visa.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/maybank.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/maybank.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/bg_maintenance.png",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/bg_maintenance.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "id.kakzaki.midpay-jetified-play-services-base-15.0.1-20:/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_indosat.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_indosat.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_call_answer_low.png",
+        "source": "id.kakzaki.midpay-core-1.13.1-3:/drawable-xhdpi-v4/ic_call_answer_low.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_light.png",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_light.png",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/bersama_atm.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/bersama_atm.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_cimb.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_cimb.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_credit_2.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_credit_2.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_permata.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_permata.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/badge_full.png",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/badge_full.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/design_ic_visibility_off.png",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/drawable-xhdpi-v4/design_ic_visibility_off.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/common_full_open_on_phone.png",
+        "source": "id.kakzaki.midpay-jetified-play-services-base-15.0.1-20:/drawable-xhdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_mandiri2.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_mandiri2.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "id.kakzaki.midpay-core-1.13.1-3:/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_bca.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_bca.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/abc_ic_star_black_16dp.png",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable-xhdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_close.png",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_close.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_status_pending.png",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_status_pending.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/notification_bg_normal.9.png",
+        "source": "id.kakzaki.midpay-core-1.13.1-3:/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_status_failed.png",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_status_failed.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "id.kakzaki.midpay-jetified-play-services-base-15.0.1-20:/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "id.kakzaki.midpay-core-1.13.1-3:/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_status_success.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_status_success.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/ic_download.webp",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/ic_download.webp"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable-xhdpi-v4/alfamidi.png",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable-xhdpi-v4/alfamidi.png"
+    }
+]

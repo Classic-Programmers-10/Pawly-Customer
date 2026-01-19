@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.nb.nb_utils-release-27:/layout/toast_custom.xml",
+        "source": "com.nb.nb_utils-release-23:/layout/toast_custom.xml"
+    },
+    {
+        "merged": "com.nb.nb_utils-release-27:/layout/custom_dialog.xml",
+        "source": "com.nb.nb_utils-core-1.13.1-2:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.nb.nb_utils-release-27:/layout/ime_secondary_split_test_activity.xml",
+        "source": "com.nb.nb_utils-core-1.13.1-2:/layout/ime_secondary_split_test_activity.xml"
+    },
+    {
+        "merged": "com.nb.nb_utils-release-27:/layout/notification_template_part_time.xml",
+        "source": "com.nb.nb_utils-core-1.13.1-2:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "com.nb.nb_utils-release-27:/layout/notification_template_part_chronometer.xml",
+        "source": "com.nb.nb_utils-core-1.13.1-2:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.nb.nb_utils-release-27:/layout/ime_base_split_test_activity.xml",
+        "source": "com.nb.nb_utils-core-1.13.1-2:/layout/ime_base_split_test_activity.xml"
+    }
+]

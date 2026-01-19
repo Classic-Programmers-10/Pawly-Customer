@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "id.kakzaki.midpay-release-48:/anim-v21/fragment_fast_out_extra_slow_in.xml",
+        "source": "id.kakzaki.midpay-fragment-1.7.1-26:/anim-v21/fragment_fast_out_extra_slow_in.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]

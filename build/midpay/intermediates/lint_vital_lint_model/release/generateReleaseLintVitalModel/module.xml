@@ -1,0 +1,26 @@
+<lint-module
+    format="1"
+    dir="/Users/feline/.pub-cache/git/midpay-a932637fddc3b1b7500b592681775d605e15949a/android"
+    name=":midpay"
+    type="LIBRARY"
+    maven="id.kakzaki.midpay:midpay:"
+    agpVersion="8.3.2"
+    buildFolder="/Users/feline/Desktop/Classic Projects/pawly customer/build/midpay"
+    bootClassPath="/Users/feline/Library/Android/sdk/platforms/android-32/android.jar:/Users/feline/Library/Android/sdk/build-tools/34.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-32"
+    neverShrinking="true">
+  <lintOptions
+      disable="InvalidPackage"
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true">
+    <severities>
+      <severity
+        id="InvalidPackage"
+        severity="IGNORE" />
+    </severities>
+  </lintOptions>
+  <variant name="release"/>
+</lint-module>

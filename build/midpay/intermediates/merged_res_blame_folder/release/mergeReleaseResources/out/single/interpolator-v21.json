@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "id.kakzaki.midpay-release-48:/interpolator-v21/mtrl_linear_out_slow_in.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/interpolator-v21/mtrl_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/interpolator-v21/mtrl_fast_out_slow_in.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/interpolator-v21/mtrl_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/interpolator-v21/mtrl_fast_out_linear_in.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/interpolator-v21/mtrl_fast_out_linear_in.xml"
+    }
+]

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="colorAccent">#9D67EF</color>
+    <string name="com.crashlytics.android.build_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">04d26eeca0234591b0de2663215b2357</string>
+    <string name="default_notification_channel_id">notification</string>
+    <string name="gcm_defaultSenderId" translatable="false">517853377290</string>
+    <string name="google_api_key" translatable="false">AIzaSyAZYoZ1fT1pz0oOi-hjYwkN2VEo9IRQBv8</string>
+    <string name="google_app_id" translatable="false">1:517853377290:android:58d667ea9d96d6aae000f3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAZYoZ1fT1pz0oOi-hjYwkN2VEo9IRQBv8</string>
+    <string name="google_storage_bucket" translatable="false">pawlly-474f0.firebasestorage.app</string>
+    <string name="project_id" translatable="false">pawlly-474f0</string>
+    <style name="LaunchTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        
+        <item name="android:windowBackground">@drawable/launch_background</item>
+    </style>
+    <style name="NormalTheme" parent="Theme.MaterialComponents">
+        <item name="android:windowBackground">?android:colorBackground</item>
+    </style>
+</resources>

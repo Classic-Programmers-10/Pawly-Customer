@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "io.flutter.plugins.pay_android-release-29:/layout/wallet_test_layout.xml",
+        "source": "io.flutter.plugins.pay_android-jetified-play-services-wallet-19.2.1-4:/layout/wallet_test_layout.xml"
+    },
+    {
+        "merged": "io.flutter.plugins.pay_android-release-29:/layout/ime_base_split_test_activity.xml",
+        "source": "io.flutter.plugins.pay_android-core-1.13.1-2:/layout/ime_base_split_test_activity.xml"
+    },
+    {
+        "merged": "io.flutter.plugins.pay_android-release-29:/layout/custom_dialog.xml",
+        "source": "io.flutter.plugins.pay_android-core-1.13.1-2:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "io.flutter.plugins.pay_android-release-29:/layout/paybutton_generic.xml",
+        "source": "io.flutter.plugins.pay_android-jetified-play-services-wallet-19.2.1-4:/layout/paybutton_generic.xml"
+    },
+    {
+        "merged": "io.flutter.plugins.pay_android-release-29:/layout/notification_template_part_time.xml",
+        "source": "io.flutter.plugins.pay_android-core-1.13.1-2:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "io.flutter.plugins.pay_android-release-29:/layout/notification_template_part_chronometer.xml",
+        "source": "io.flutter.plugins.pay_android-core-1.13.1-2:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "io.flutter.plugins.pay_android-release-29:/layout/ime_secondary_split_test_activity.xml",
+        "source": "io.flutter.plugins.pay_android-core-1.13.1-2:/layout/ime_secondary_split_test_activity.xml"
+    }
+]

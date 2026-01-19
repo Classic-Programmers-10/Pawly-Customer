@@ -1,0 +1,39 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.classic.userpetcare.app-mergeReleaseResources-123:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/feline/.gradle/caches/transforms-3/a601a64348a93dd5aa8712f3694c7b68/transformed/jetified-IntentSDK-2.4.2/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "168"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "228",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "341"
+                    }
+                },
+                {
+                    "source": "/Users/feline/.gradle/caches/transforms-3/850704e09a64913b6a57cf938387c947/transformed/appcompat-1.6.1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        }
+    ]
+}

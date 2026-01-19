@@ -1,0 +1,38 @@
+<variant
+    name="release"
+    package="com.classic.userpetcare"
+    minSdkVersion="24"
+    targetSdkVersion="35"
+    shrinking="true"
+    mergedManifest="/Users/feline/Desktop/Classic Projects/pawly customer/build/app/intermediates/merged_manifest/release/processReleaseMainManifest/AndroidManifest.xml"
+    manifestMergeReport="/Users/feline/Desktop/Classic Projects/pawly customer/build/app/outputs/logs/manifest-merger-release-report.txt"
+    proguardFiles="/Users/feline/Desktop/Classic Projects/pawly customer/build/app/intermediates/default_proguard_files/global/proguard-android.txt-8.3.2:/Users/feline/Desktop/DEV/Flutter/flutter/packages/flutter_tools/gradle/flutter_proguard_rules.pro:proguard-rules.pro"
+    partialResultsDir="/Users/feline/Desktop/Classic Projects/pawly customer/build/app/intermediates/lint_vital_partial_results/release/lintVitalAnalyzeRelease/out">
+  <buildFeatures
+      coreLibraryDesugaring="true"
+      namespacing="REQUIRED"/>
+  <sourceProviders>
+    <sourceProvider
+        manifests="src/main/AndroidManifest.xml"
+        javaDirectories="src/main/java:src/main/kotlin:src/release/java:src/release/kotlin"
+        resDirectories="src/main/res:src/release/res"
+        assetsDirectories="src/main/assets:src/release/assets"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <manifestPlaceholders>
+    <placeholder
+        name="applicationName"
+        value="android.app.Application" />
+  </manifestPlaceholders>
+  <artifact
+      classOutputs="/Users/feline/Desktop/Classic Projects/pawly customer/build/app/intermediates/javac/release/compileReleaseJavaWithJavac/classes:/Users/feline/Desktop/Classic Projects/pawly customer/build/app/tmp/kotlin-classes/release:/Users/feline/Desktop/Classic Projects/pawly customer/build/app/kotlinToolingMetadata:/Users/feline/Desktop/Classic Projects/pawly customer/build/app/intermediates/compile_and_runtime_not_namespaced_r_class_jar/release/processReleaseResources/R.jar"
+      type="MAIN"
+      applicationId="com.classic.userpetcare"
+      generatedSourceFolders="/Users/feline/Desktop/Classic Projects/pawly customer/build/app/generated/ap_generated_sources/release/out"
+      generatedResourceFolders="/Users/feline/Desktop/Classic Projects/pawly customer/build/app/generated/crashlytics/res/release:/Users/feline/Desktop/Classic Projects/pawly customer/build/app/generated/res/resValues/release"
+      desugaredMethodsFiles="/Users/feline/.gradle/caches/transforms-3/9d599bf1437b79c76527a34b33740faa/transformed/desugar_jdk_libs_configuration-1.2.2-desugar-lint.txt:/Users/feline/.gradle/caches/transforms-3/0cc1391484354e28a2bd54e7a210f6e7/transformed/D8BackportedDesugaredMethods.txt">
+  </artifact>
+</variant>

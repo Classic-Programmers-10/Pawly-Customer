@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.classic.userpetcare.app-mergeReleaseResources-123:/values-ku/values-ku.xml",
+            "map": [
+                {
+                    "source": "/Users/feline/.gradle/caches/transforms-3/599db62645fc3bdea9231321e16319fd/transformed/jetified-hcaptcha-20.44.2/res/values-ku/values-ku.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "84",
+                        "endOffsets": "135"
+                    }
+                }
+            ]
+        }
+    ]
+}

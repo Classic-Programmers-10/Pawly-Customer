@@ -1,0 +1,31 @@
+<variant
+    name="release"
+    package="com.nb.nb_utils"
+    minSdkVersion="21"
+    targetSdkVersion="21"
+    mergedManifest="/Users/feline/Desktop/Classic Projects/pawly customer/build/nb_utils/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml"
+    manifestMergeReport="/Users/feline/Desktop/Classic Projects/pawly customer/build/nb_utils/outputs/logs/manifest-merger-release-report.txt"
+    proguardFiles="/Users/feline/Desktop/Classic Projects/pawly customer/build/nb_utils/intermediates/default_proguard_files/global/proguard-android.txt-8.3.2"
+    partialResultsDir="/Users/feline/Desktop/Classic Projects/pawly customer/build/nb_utils/intermediates/lint_partial_results/release/lintAnalyzeRelease/out">
+  <buildFeatures
+      namespacing="REQUIRED"/>
+  <sourceProviders>
+    <sourceProvider
+        manifests="src/main/AndroidManifest.xml"
+        javaDirectories="src/main/java:src/main/kotlin:src/release/java:src/release/kotlin"
+        resDirectories="src/main/res:src/release/res"
+        assetsDirectories="src/main/assets:src/release/assets"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <artifact
+      classOutputs="/Users/feline/Desktop/Classic Projects/pawly customer/build/nb_utils/intermediates/javac/release/compileReleaseJavaWithJavac/classes:/Users/feline/Desktop/Classic Projects/pawly customer/build/nb_utils/tmp/kotlin-classes/release:/Users/feline/Desktop/Classic Projects/pawly customer/build/nb_utils/intermediates/compile_r_class_jar/release/generateReleaseRFile/R.jar"
+      type="MAIN"
+      applicationId="com.nb.nb_utils"
+      generatedSourceFolders="/Users/feline/Desktop/Classic Projects/pawly customer/build/nb_utils/generated/ap_generated_sources/release/out"
+      generatedResourceFolders="/Users/feline/Desktop/Classic Projects/pawly customer/build/nb_utils/generated/res/resValues/release"
+      desugaredMethodsFiles="/Users/feline/.gradle/caches/transforms-3/f498e4b24a4c8ea92c2ebac20d567846/transformed/D8BackportedDesugaredMethods.txt">
+  </artifact>
+</variant>

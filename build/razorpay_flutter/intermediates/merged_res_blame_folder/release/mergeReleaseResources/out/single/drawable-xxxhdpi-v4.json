@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.razorpay.razorpay_flutter-release-31:/drawable-xxxhdpi-v4/ic_call_answer_video.png",
+        "source": "com.razorpay.razorpay_flutter-core-1.13.1-2:/drawable-xxxhdpi-v4/ic_call_answer_video.png"
+    },
+    {
+        "merged": "com.razorpay.razorpay_flutter-release-31:/drawable-xxxhdpi-v4/ic_call_decline.png",
+        "source": "com.razorpay.razorpay_flutter-core-1.13.1-2:/drawable-xxxhdpi-v4/ic_call_decline.png"
+    },
+    {
+        "merged": "com.razorpay.razorpay_flutter-release-31:/drawable-xxxhdpi-v4/ic_call_answer_video_low.png",
+        "source": "com.razorpay.razorpay_flutter-core-1.13.1-2:/drawable-xxxhdpi-v4/ic_call_answer_video_low.png"
+    },
+    {
+        "merged": "com.razorpay.razorpay_flutter-release-31:/drawable-xxxhdpi-v4/ic_call_decline_low.png",
+        "source": "com.razorpay.razorpay_flutter-core-1.13.1-2:/drawable-xxxhdpi-v4/ic_call_decline_low.png"
+    },
+    {
+        "merged": "com.razorpay.razorpay_flutter-release-31:/drawable-xxxhdpi-v4/rzp_logo.png",
+        "source": "com.razorpay.razorpay_flutter-jetified-core-1.0.4-8:/drawable-xxxhdpi-v4/rzp_logo.png"
+    },
+    {
+        "merged": "com.razorpay.razorpay_flutter-release-31:/drawable-xxxhdpi-v4/ic_call_answer_low.png",
+        "source": "com.razorpay.razorpay_flutter-core-1.13.1-2:/drawable-xxxhdpi-v4/ic_call_answer_low.png"
+    },
+    {
+        "merged": "com.razorpay.razorpay_flutter-release-31:/drawable-xxxhdpi-v4/ic_call_answer.png",
+        "source": "com.razorpay.razorpay_flutter-core-1.13.1-2:/drawable-xxxhdpi-v4/ic_call_answer.png"
+    }
+]

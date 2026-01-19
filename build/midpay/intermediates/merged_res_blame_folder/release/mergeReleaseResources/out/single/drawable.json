@@ -1,0 +1,566 @@
+[
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_bri_3.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_bri_3.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/abc_list_selector_holo_dark.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/btn_checkbox_unchecked_mtrl.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable/btn_checkbox_unchecked_mtrl.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/abc_textfield_search_material.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_atm_bersama_7.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_atm_bersama_7.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/notification_bg_low.xml",
+        "source": "id.kakzaki.midpay-core-1.13.1-3:/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_mandiri_2.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_mandiri_2.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_prima_1.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_prima_1.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/abc_btn_colored_material.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "id.kakzaki.midpay-jetified-play-services-base-15.0.1-20:/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_bni_4.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_bni_4.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/grey_rounded_background.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/grey_rounded_background.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_alto_6.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_alto_6.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_bca_4.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_bca_4.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/notification_bg.xml",
+        "source": "id.kakzaki.midpay-core-1.13.1-3:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_atm_bersama_6.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_atm_bersama_6.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_mandiri_3.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_mandiri_3.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "id.kakzaki.midpay-jetified-play-services-base-15.0.1-20:/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_bri_4.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_bri_4.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/uikit_ic_gopay_qris.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/uikit_ic_gopay_qris.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_alto_5.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_alto_5.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_prima_4_permata.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_prima_4_permata.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_permata_7.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_permata_7.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/abc_list_divider_material.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/btn_radio_on_mtrl.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable/btn_radio_on_mtrl.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "id.kakzaki.midpay-jetified-play-services-base-15.0.1-20:/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/mtrl_snackbar_background.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/drawable/mtrl_snackbar_background.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_prima_3.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_prima_3.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_bni_3.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_bni_3.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/mtrl_tabs_default_indicator.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/drawable/mtrl_tabs_default_indicator.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_bni_6.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_bni_6.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/notification_tile_bg.xml",
+        "source": "id.kakzaki.midpay-core-1.13.1-3:/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_alto_7.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_alto_7.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/midtrans_loader.gif",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/midtrans_loader.gif"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_bca_3.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_bca_3.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/abc_btn_check_material_anim.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable/abc_btn_check_material_anim.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/notification_icon_background.xml",
+        "source": "id.kakzaki.midpay-core-1.13.1-3:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_mandiri_5.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_mandiri_5.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_bri_6.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_bri_6.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "id.kakzaki.midpay-jetified-play-services-base-15.0.1-20:/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_permata_6.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_permata_6.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_bni_1.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_bni_1.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_bni_7.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_bni_7.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/abc_text_cursor_material.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_alto_4.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_alto_4.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/btn_checkbox_checked_mtrl.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable/btn_checkbox_checked_mtrl.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_bca_1.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_bca_1.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_bri_1.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_bri_1.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/abc_vector_test.xml",
+        "source": "id.kakzaki.midpay-jetified-appcompat-resources-1.2.0-6:/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_mandiri_6.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_mandiri_6.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/abc_btn_radio_material.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/abc_tab_indicator_material.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_bri_7.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_bri_7.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/abc_ratingbar_material.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/abc_btn_borderless_material.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/ic_mtrl_chip_checked_circle.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/drawable/ic_mtrl_chip_checked_circle.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/tooltip_frame_light.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable/tooltip_frame_light.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_prima_2.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_prima_2.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_prima_5.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_prima_5.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_atm_bersama_4_bni.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_atm_bersama_4_bni.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_prima_4_bni.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_prima_4_bni.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_atm_bersama_5.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_atm_bersama_5.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_atm_bersama_2.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_atm_bersama_2.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/uikit_ic_shopeepay.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/uikit_ic_shopeepay.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_atm_bersama_1.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_atm_bersama_1.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_atm_bersama_4_permata.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_atm_bersama_4_permata.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_prima_7.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_prima_7.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/abc_item_background_holo_dark.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_permata_3.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_permata_3.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "id.kakzaki.midpay-jetified-play-services-base-15.0.1-20:/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/abc_seekbar_thumb_material.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/abc_ic_go_search_api_material.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_alto_1.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_alto_1.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "id.kakzaki.midpay-jetified-play-services-base-15.0.1-20:/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/btn_radio_off_to_on_mtrl_animation.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable/btn_radio_off_to_on_mtrl_animation.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/design_fab_background.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/abc_btn_radio_material_anim.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable/abc_btn_radio_material_anim.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_permata_4.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_permata_4.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_alto_2.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_alto_2.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/common_google_signin_btn_text_light.xml",
+        "source": "id.kakzaki.midpay-jetified-play-services-base-15.0.1-20:/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/abc_cab_background_internal_bg.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/abc_btn_check_material.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/ic_mtrl_chip_close_circle.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/drawable/ic_mtrl_chip_close_circle.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/btn_radio_off_mtrl.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable/btn_radio_off_mtrl.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/abc_edit_text_material.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "id.kakzaki.midpay-jetified-play-services-base-15.0.1-20:/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_permata_2.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_permata_2.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/design_snackbar_background.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_permata_5.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_permata_5.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_prima_6.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_prima_6.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/btn_radio_on_to_off_mtrl_animation.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable/btn_radio_on_to_off_mtrl_animation.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "id.kakzaki.midpay-jetified-play-services-base-15.0.1-20:/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/ic_bri.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/ic_bri.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/ic_brimo.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/ic_brimo.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "id.kakzaki.midpay-jetified-play-services-base-15.0.1-20:/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/abc_ic_ab_back_material.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_bca_6.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_bca_6.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/abc_list_selector_holo_light.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "id.kakzaki.midpay-jetified-play-services-base-15.0.1-20:/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/abc_seekbar_track_material.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/design_bottom_navigation_item_background.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/uikit_ic_shopeepay_white.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/uikit_ic_shopeepay_white.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/uikit_ic_shopeepay_qris.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/uikit_ic_shopeepay_qris.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_atm_bersama_3.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_atm_bersama_3.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/tooltip_frame_dark.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable/tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_bca_5.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_bca_5.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_permata_1.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_permata_1.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/abc_item_background_holo_light.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/abc_ic_clear_material.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_bni_5.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_bni_5.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "id.kakzaki.midpay-jetified-play-services-base-15.0.1-20:/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_bni_2.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_bni_2.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "id.kakzaki.midpay-jetified-play-services-base-15.0.1-20:/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_bca_2.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_bca_2.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/abc_dialog_material_background.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/abc_ratingbar_small_material.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/ic_mtrl_chip_checked_black.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/drawable/ic_mtrl_chip_checked_black.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/abc_cab_background_top_material.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "id.kakzaki.midpay-jetified-play-services-base-15.0.1-20:/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/rounded_notification_background.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/rounded_notification_background.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/navigation_empty_icon.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_bri_5.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_bri_5.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/ic_mega.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/ic_mega.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_alto_3.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_alto_3.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_mandiri_1.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_mandiri_1.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/abc_switch_thumb_material.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_bri_2.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_bri_2.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/abc_ic_search_api_material.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/instruction_mandiri_4.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/drawable/instruction_mandiri_4.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/drawable/design_password_eye.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/drawable/design_password_eye.xml"
+    }
+]

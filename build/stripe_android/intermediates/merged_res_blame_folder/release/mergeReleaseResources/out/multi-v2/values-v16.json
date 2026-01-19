@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.flutter.stripe.stripe_android-release-91:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/feline/.gradle/caches/transforms-3/850704e09a64913b6a57cf938387c947/transformed/appcompat-1.6.1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.flutter.stripe.stripe_android-mergeReleaseResources-89:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/feline/.gradle/caches/transforms-3/850704e09a64913b6a57cf938387c947/transformed/appcompat-1.6.1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        }
+    ]
+}

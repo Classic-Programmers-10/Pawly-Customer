@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    }
+]

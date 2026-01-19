@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "id.kakzaki.midpay-release-48:/animator/fragment_open_exit.xml",
+        "source": "id.kakzaki.midpay-fragment-1.7.1-26:/animator/fragment_open_exit.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/animator/fragment_open_enter.xml",
+        "source": "id.kakzaki.midpay-fragment-1.7.1-26:/animator/fragment_open_enter.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/animator/fragment_close_exit.xml",
+        "source": "id.kakzaki.midpay-fragment-1.7.1-26:/animator/fragment_close_exit.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/animator/fragment_fade_enter.xml",
+        "source": "id.kakzaki.midpay-fragment-1.7.1-26:/animator/fragment_fade_enter.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/animator/mtrl_fab_transformation_sheet_expand_spec.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/animator/mtrl_fab_transformation_sheet_expand_spec.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/animator/mtrl_fab_show_motion_spec.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/animator/mtrl_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/animator/mtrl_btn_state_list_anim.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/animator/mtrl_btn_state_list_anim.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/animator/mtrl_chip_state_list_anim.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/animator/mtrl_chip_state_list_anim.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/animator/fragment_close_enter.xml",
+        "source": "id.kakzaki.midpay-fragment-1.7.1-26:/animator/fragment_close_enter.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/animator/mtrl_fab_transformation_sheet_collapse_spec.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/animator/mtrl_fab_transformation_sheet_collapse_spec.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/animator/design_fab_show_motion_spec.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/animator/design_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/animator/design_fab_hide_motion_spec.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/animator/design_fab_hide_motion_spec.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/animator/mtrl_fab_hide_motion_spec.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/animator/mtrl_fab_hide_motion_spec.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/animator/mtrl_btn_unelevated_state_list_anim.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/animator/mtrl_btn_unelevated_state_list_anim.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/animator/fragment_fade_exit.xml",
+        "source": "id.kakzaki.midpay-fragment-1.7.1-26:/animator/fragment_fade_exit.xml"
+    }
+]

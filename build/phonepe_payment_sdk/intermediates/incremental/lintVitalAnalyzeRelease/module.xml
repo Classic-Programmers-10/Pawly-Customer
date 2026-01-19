@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="/Users/feline/.pub-cache/hosted/pub.dev/phonepe_payment_sdk-2.0.3/android"
+    name=":phonepe_payment_sdk"
+    type="LIBRARY"
+    maven="com.phonepe.phonepe_payment_sdk:phonepe_payment_sdk:"
+    agpVersion="8.3.2"
+    buildFolder="/Users/feline/Desktop/Classic Projects/pawly customer/build/phonepe_payment_sdk"
+    bootClassPath="/Users/feline/Library/Android/sdk/platforms/android-31/android.jar:/Users/feline/Library/Android/sdk/build-tools/34.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-31">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

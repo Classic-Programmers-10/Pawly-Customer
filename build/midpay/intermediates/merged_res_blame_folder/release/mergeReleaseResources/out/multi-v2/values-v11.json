@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "id.kakzaki.midpay-release-48:/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "/Users/feline/.gradle/caches/transforms-3/fe160f541291dfe8fd09ff11d34bb126/transformed/jetified-zxing-android-embedded-3.5.0/res/values-v11/values-v11.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "10",
+                        "endOffsets": "150"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "id.kakzaki.midpay-mergeReleaseResources-46:/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "/Users/feline/.gradle/caches/transforms-3/fe160f541291dfe8fd09ff11d34bb126/transformed/jetified-zxing-android-embedded-3.5.0/res/values-v11/values-v11.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "10",
+                        "endOffsets": "150"
+                    }
+                }
+            ]
+        }
+    ]
+}

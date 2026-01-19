@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/Users/feline/.pub-cache/hosted/pub.dev/geocoding_android-3.3.1/android"
+    name=":geocoding_android"
+    type="LIBRARY"
+    maven="com.baseflow.geocoding:geocoding_android:"
+    agpVersion="8.3.2"
+    buildFolder="/Users/feline/Desktop/Classic Projects/pawly customer/build/geocoding_android"
+    bootClassPath="/Users/feline/Library/Android/sdk/platforms/android-33/android.jar:/Users/feline/Library/Android/sdk/build-tools/34.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-33"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/Users/feline/.pub-cache/hosted/pub.dev/stripe_android-10.2.1/android"
+    name=":stripe_android"
+    type="LIBRARY"
+    maven="com.flutter.stripe:stripe_android:"
+    agpVersion="8.3.2"
+    buildFolder="/Users/feline/Desktop/Classic Projects/pawly customer/build/stripe_android"
+    bootClassPath="/Users/feline/Library/Android/sdk/platforms/android-34/android.jar:/Users/feline/Library/Android/sdk/build-tools/34.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="17"
+    compileTarget="android-34"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

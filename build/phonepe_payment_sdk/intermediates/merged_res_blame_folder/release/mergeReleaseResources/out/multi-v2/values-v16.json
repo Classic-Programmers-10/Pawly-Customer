@@ -1,0 +1,74 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.phonepe.phonepe_payment_sdk-release-29:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/feline/.gradle/caches/transforms-3/a601a64348a93dd5aa8712f3694c7b68/transformed/jetified-IntentSDK-2.4.2/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "168"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "228",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "341"
+                    }
+                },
+                {
+                    "source": "/Users/feline/.gradle/caches/transforms-3/e0cc11f309ff1e69eeda4161d0fe6916/transformed/appcompat-1.3.1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.phonepe.phonepe_payment_sdk-mergeReleaseResources-27:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/feline/.gradle/caches/transforms-3/a601a64348a93dd5aa8712f3694c7b68/transformed/jetified-IntentSDK-2.4.2/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "168"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "228",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "341"
+                    }
+                },
+                {
+                    "source": "/Users/feline/.gradle/caches/transforms-3/e0cc11f309ff1e69eeda4161d0fe6916/transformed/appcompat-1.3.1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        }
+    ]
+}

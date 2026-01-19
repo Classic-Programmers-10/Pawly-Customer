@@ -1,0 +1,742 @@
+[
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/transaction_item_header.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/transaction_item_header.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/ime_secondary_split_test_activity.xml",
+        "source": "id.kakzaki.midpay-core-1.13.1-3:/layout/ime_secondary_split_test_activity.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/layout_alfamart_status.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/layout_alfamart_status.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/abc_screen_toolbar.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/transaction_item_body.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/transaction_item_body.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/abc_action_menu_layout.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/abc_action_mode_bar.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/layout_gopay_payment_tablet.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/layout_gopay_payment_tablet.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/appbar_payment.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/appbar_payment.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/layout_primary_button.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/layout_primary_button.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/layout_kioson_status.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/layout_kioson_status.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/design_layout_snackbar.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/item_item_details.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/item_item_details.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/layout_row_country_code.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/layout_row_country_code.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/select_dialog_multichoice_material.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/ime_base_split_test_activity.xml",
+        "source": "id.kakzaki.midpay-core-1.13.1-3:/layout/ime_base_split_test_activity.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/activity_payment_status.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/activity_payment_status.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/activity_kioson_status.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/activity_kioson_status.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/uikit_activity_shopeepay_status.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/uikit_activity_shopeepay_status.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/uikit_layout_shopeepay_payment.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/uikit_layout_shopeepay_payment.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/design_layout_snackbar_include.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/activity_bank_points.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/activity_bank_points.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/activity_bank_transfer_list.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/activity_bank_transfer_list.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/uikit_layout_uob_web_payment.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/uikit_layout_uob_web_payment.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/activity_xl_tunai_status.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/activity_xl_tunai_status.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/abc_dialog_title_material.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/abc_screen_content_include.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/activity_mandiri_bill_status.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/activity_mandiri_bill_status.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/notification_template_custom_big.xml",
+        "source": "id.kakzaki.midpay-core-1.13.1-3:/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/activity_alfamart_payment.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/activity_alfamart_payment.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/activity_danamon_online.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/activity_danamon_online.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/fragment_instruction_mandiri.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/fragment_instruction_mandiri.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/layout_bca_klikbca_status.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/layout_bca_klikbca_status.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/fragment_instruction_bni_internet.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/fragment_instruction_bni_internet.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/layout_row_payment_methods.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/layout_row_payment_methods.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/notification_action.xml",
+        "source": "id.kakzaki.midpay-core-1.13.1-3:/layout/notification_action.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/layout_indosat_dompetku.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/layout_indosat_dompetku.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/zxing_capture.xml",
+        "source": "id.kakzaki.midpay-jetified-zxing-android-embedded-3.5.0-42:/layout/zxing_capture.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/mtrl_layout_snackbar.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/layout/mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/design_navigation_item.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/design_navigation_item_separator.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/abc_activity_chooser_view.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/design_bottom_sheet_dialog.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/uikit_layout_uob_app_payment.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/uikit_layout_uob_app_payment.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/activity_indosat_dompetku.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/activity_indosat_dompetku.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/zxing_barcode_scanner.xml",
+        "source": "id.kakzaki.midpay-jetified-zxing-android-embedded-3.5.0-42:/layout/zxing_barcode_scanner.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/layout_bca_klikpay.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/layout_bca_klikpay.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/layout_bri_epay.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/layout_bri_epay.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/layout_indomaret_status.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/layout_indomaret_status.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/activity_webview_payment.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/activity_webview_payment.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/activity_kioson_payment.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/activity_kioson_payment.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/fragment_instruction_bni_mobile.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/fragment_instruction_bni_mobile.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/activity_other_bank_status.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/activity_other_bank_status.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/layout_gopay_status_tablet.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/layout_gopay_status_tablet.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/design_text_input_password_icon.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/notification_template_icon_group.xml",
+        "source": "id.kakzaki.midpay-core-1.13.1-3:/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/fragment_instruction_bca_transfer_mbca.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/fragment_instruction_bca_transfer_mbca.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/layout_other_bank_status.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/layout_other_bank_status.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/activity_indomaret_status.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/activity_indomaret_status.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/fragment_instruction_mandiri_internet.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/fragment_instruction_mandiri_internet.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/layout_other_atm_network_guidance.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/layout_other_atm_network_guidance.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/activity_cimb_click.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/activity_cimb_click.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/dialog_cvv.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/dialog_cvv.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/activity_gci_payment.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/activity_gci_payment.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/layout_credit_card_register.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/layout_credit_card_register.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/abc_tooltip.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/layout/abc_tooltip.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/abc_popup_menu_item_layout.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/notification_template_big_media.xml",
+        "source": "id.kakzaki.midpay-media-1.0.0-13:/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/abc_list_menu_item_checkbox.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/layout_row_promos.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/layout_row_promos.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/design_layout_tab_icon.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/layout_danamon_online.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/layout_danamon_online.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/activity_bca_klikbca_status.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/activity_bca_klikbca_status.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/abc_search_view.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/activity_payments_method.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/activity_payments_method.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/layout_indomaret.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/layout_indomaret.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/abc_screen_simple.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/notification_template_part_time.xml",
+        "source": "id.kakzaki.midpay-core-1.13.1-3:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/abc_expanded_menu_layout.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/design_navigation_menu.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/layout_bca_klikbca.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/layout_bca_klikbca.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/design_bottom_navigation_item.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/abc_action_bar_up_container.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/fragment_instruction_xl_tunai.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/fragment_instruction_xl_tunai.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/layout_maintenance.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/layout_maintenance.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/fragment_user_detail.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/fragment_user_detail.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/abc_cascading_menu_item_layout.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/layout/abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/layout_mandiri_bill_status.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/layout_mandiri_bill_status.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "id.kakzaki.midpay-media-1.0.0-13:/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/layout_mandiri_ecash.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/layout_mandiri_ecash.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/activity_bank_transfer_status.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/activity_bank_transfer_status.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/activity_mandiri_ecash.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/activity_mandiri_ecash.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/activity_instruction_xl_tunai.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/activity_instruction_xl_tunai.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/layout_akulaku.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/layout_akulaku.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/design_navigation_item_subheader.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/fragment_bca_tranfer_click_instruction.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/fragment_bca_tranfer_click_instruction.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/layout_bank_transfer_status.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/layout_bank_transfer_status.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/fragment_instruction_atm_bersama.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/fragment_instruction_atm_bersama.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/uikit_activity_uob_app_payment.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/uikit_activity_uob_app_payment.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/abc_action_mode_close_item_material.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/layout_xl_tunai_status.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/layout_xl_tunai_status.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/dialog_bank_list.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/dialog_bank_list.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/layout_cimb_click.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/layout_cimb_click.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/layout_row_saved_cards.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/layout_row_saved_cards.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/activity_bank_transfer_payment.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/activity_bank_transfer_payment.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/uikit_activity_shopeepay_payment.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/uikit_activity_shopeepay_payment.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/notification_template_big_media_narrow.xml",
+        "source": "id.kakzaki.midpay-media-1.0.0-13:/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/design_navigation_item_header.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/activity_new_mandiri_clickpay.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/activity_new_mandiri_clickpay.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/layout_xl_tunai.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/layout_xl_tunai.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/fragment_instruction_alto.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/fragment_instruction_alto.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/fragment_instruction_bri_mobile.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/fragment_instruction_bri_mobile.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/activity_credit_card.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/activity_credit_card.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/fragment_instruction_bri_atm.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/fragment_instruction_bri_atm.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/custom_dialog.xml",
+        "source": "id.kakzaki.midpay-core-1.13.1-3:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/uikit_layout_shopeepay_status_tablet.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/uikit_layout_shopeepay_status_tablet.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/uikit_layout_shopeepay_payment_tablet.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/uikit_layout_shopeepay_payment_tablet.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/activity_credit_card_register.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/activity_credit_card_register.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/notification_template_big_media_custom.xml",
+        "source": "id.kakzaki.midpay-media-1.0.0-13:/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/activity_gopay_payment.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/activity_gopay_payment.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/abc_action_menu_item_layout.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/notification_template_lines_media.xml",
+        "source": "id.kakzaki.midpay-media-1.0.0-13:/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/activity_alfamart_status.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/activity_alfamart_status.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/layout_tnc_bni_point.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/layout_tnc_bni_point.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/activity_akulaku.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/activity_akulaku.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/fragment_instruction_bca.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/fragment_instruction_bca.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/fragment_instruction_permata.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/fragment_instruction_permata.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/design_layout_tab_text.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/layout_loading_and_badge.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/layout_loading_and_badge.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/layout_gopay_payment.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/layout_gopay_payment.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/notification_media_cancel_action.xml",
+        "source": "id.kakzaki.midpay-media-1.0.0-13:/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/activity_bri_epay.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/activity_bri_epay.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/activity_gopay_status.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/activity_gopay_status.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/uikit_activity_uob_web_payment.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/uikit_activity_uob_web_payment.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/activity_bca_klikbca.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/activity_bca_klikbca.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/abc_list_menu_item_icon.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/layout_kioson.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/layout_kioson.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/layout_alfamart.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/layout_alfamart.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/layout_bank_points.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/layout_bank_points.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/activity_saved_credit_card.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/activity_saved_credit_card.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/design_navigation_menu_item.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/activity_telkomsel_cash.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/activity_telkomsel_cash.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/layout_saved_credit_card.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/layout_saved_credit_card.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/layout_sandbox_badge.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/layout_sandbox_badge.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/mtrl_layout_snackbar_include.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/layout/mtrl_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/abc_action_bar_title_item.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/fragment_user_address.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/fragment_user_address.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/layout_telkomsel_cash.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/layout_telkomsel_cash.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/notification_template_part_chronometer.xml",
+        "source": "id.kakzaki.midpay-core-1.13.1-3:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/activity_user_details.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/activity_user_details.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/notification_media_action.xml",
+        "source": "id.kakzaki.midpay-media-1.0.0-13:/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/abc_list_menu_item_layout.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/select_dialog_item_material.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/fragment_instruction_bni_atm.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/fragment_instruction_bni_atm.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/notification_template_media_custom.xml",
+        "source": "id.kakzaki.midpay-media-1.0.0-13:/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/bank_item_viewholder.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/bank_item_viewholder.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/layout_total_amount.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/layout_total_amount.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/layout_credit_card_form.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/layout_credit_card_form.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/abc_alert_dialog_material.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/abc_select_dialog_material.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/activity_bca_klikpay.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/activity_bca_klikpay.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/activity_tnc.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/activity_tnc.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/layout_mandiri_clickpay.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/layout_mandiri_clickpay.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/activity_xl_tunai_payment.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/activity_xl_tunai_payment.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/activity_indomaret_payment.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/activity_indomaret_payment.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/abc_list_menu_item_radio.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/abc_alert_dialog_title_material.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/layout_bank_transfer_payment.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/layout_bank_transfer_payment.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/notification_action_tombstone.xml",
+        "source": "id.kakzaki.midpay-core-1.13.1-3:/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/select_dialog_singlechoice_material.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/notification_template_media.xml",
+        "source": "id.kakzaki.midpay-media-1.0.0-13:/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/fragment_instruction_alto_bni.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/fragment_instruction_alto_bni.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/design_menu_item_action_area.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/layout_gci.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/layout_gci.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/layout_install_gopay.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/layout_install_gopay.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/item_item_header.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/item_item_header.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/fragment_instruction_prima.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/fragment_instruction_prima.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/layout_midtrans_progress.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/layout_midtrans_progress.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/layout/fragment_instruction_bri_internet.xml",
+        "source": "id.kakzaki.midpay-jetified-uikit-1.31.1-38:/layout/fragment_instruction_bri_internet.xml"
+    }
+]

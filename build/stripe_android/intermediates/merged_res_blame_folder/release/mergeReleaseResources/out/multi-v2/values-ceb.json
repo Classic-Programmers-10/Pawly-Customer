@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.flutter.stripe.stripe_android-release-91:/values-ceb/values-ceb.xml",
+            "map": [
+                {
+                    "source": "/Users/feline/.gradle/caches/transforms-3/599db62645fc3bdea9231321e16319fd/transformed/jetified-hcaptcha-20.44.2/res/values-ceb/values-ceb.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "86",
+                        "endOffsets": "137"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.flutter.stripe.stripe_android-mergeReleaseResources-89:/values-ceb/values-ceb.xml",
+            "map": [
+                {
+                    "source": "/Users/feline/.gradle/caches/transforms-3/599db62645fc3bdea9231321e16319fd/transformed/jetified-hcaptcha-20.44.2/res/values-ceb/values-ceb.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "86",
+                        "endOffsets": "137"
+                    }
+                }
+            ]
+        }
+    ]
+}

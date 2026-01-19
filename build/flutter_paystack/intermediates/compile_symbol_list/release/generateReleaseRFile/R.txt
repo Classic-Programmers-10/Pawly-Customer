@@ -1,0 +1,5 @@
+int dimen paystack__view__margin 0x0
+int id webView 0x0
+int layout co_paystack_android____activity_auth 0x0
+int string auth_text 0x0
+int style Paystack_Dialog 0x0

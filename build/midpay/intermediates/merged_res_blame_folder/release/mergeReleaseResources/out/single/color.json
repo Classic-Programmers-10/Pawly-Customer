@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "id.kakzaki.midpay-release-48:/color/mtrl_chip_close_icon_tint.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/color/mtrl_chip_close_icon_tint.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/color/abc_tint_seek_thumb.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/color/mtrl_tabs_icon_color_selector.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/color/mtrl_tabs_icon_color_selector.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/color/mtrl_bottom_nav_colored_item_tint.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/color/mtrl_bottom_nav_colored_item_tint.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/color/switch_thumb_material_light.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/color/design_tint_password_toggle.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/color/abc_secondary_text_material_dark.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/color/mtrl_chip_background_color.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/color/mtrl_chip_background_color.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/color/abc_secondary_text_material_light.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/color/abc_search_url_text.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/color/mtrl_text_btn_text_color_selector.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/color/mtrl_text_btn_text_color_selector.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/color/mtrl_bottom_nav_item_tint.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/color/mtrl_bottom_nav_item_tint.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/color/abc_background_cache_hint_selector_material_light.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/color/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/color/mtrl_tabs_icon_color_selector_colored.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/color/mtrl_tabs_icon_color_selector_colored.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/color/common_google_signin_btn_tint.xml",
+        "source": "id.kakzaki.midpay-jetified-play-services-base-15.0.1-20:/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/color/abc_tint_switch_track.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/color/mtrl_chip_text_color.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/color/mtrl_chip_text_color.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/color/mtrl_btn_bg_color_selector.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/color/mtrl_btn_bg_color_selector.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/color/mtrl_btn_stroke_color_selector.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/color/mtrl_btn_stroke_color_selector.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/color/abc_btn_colored_text_material.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/color/mtrl_tabs_ripple_color.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/color/mtrl_tabs_ripple_color.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/color/abc_hint_foreground_material_dark.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/color/abc_primary_text_material_dark.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/color/mtrl_chip_ripple_color.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/color/mtrl_chip_ripple_color.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/color/mtrl_btn_text_btn_ripple_color.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/color/mtrl_btn_text_btn_ripple_color.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/color/common_google_signin_btn_text_dark.xml",
+        "source": "id.kakzaki.midpay-jetified-play-services-base-15.0.1-20:/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/color/switch_thumb_material_dark.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/color/abc_tint_btn_checkable.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/color/mtrl_tabs_colored_ripple_color.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/color/mtrl_tabs_colored_ripple_color.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/color/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/color/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/color/abc_tint_spinner.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/color/abc_tint_default.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/color/mtrl_fab_ripple_color.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/color/mtrl_fab_ripple_color.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/color/abc_tint_edittext.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/color/common_google_signin_btn_text_light.xml",
+        "source": "id.kakzaki.midpay-jetified-play-services-base-15.0.1-20:/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/color/mtrl_tabs_legacy_text_color_selector.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/color/mtrl_tabs_legacy_text_color_selector.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/color/design_error.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/color/design_error.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/color/abc_hint_foreground_material_light.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/color/abc_primary_text_material_light.xml",
+        "source": "id.kakzaki.midpay-appcompat-1.2.0-32:/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/color/mtrl_btn_text_color_selector.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/color/mtrl_btn_text_color_selector.xml"
+    },
+    {
+        "merged": "id.kakzaki.midpay-release-48:/color/mtrl_btn_ripple_color.xml",
+        "source": "id.kakzaki.midpay-material-1.0.0-37:/color/mtrl_btn_ripple_color.xml"
+    }
+]

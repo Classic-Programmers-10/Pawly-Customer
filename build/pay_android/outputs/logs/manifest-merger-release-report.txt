@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/feline/.pub-cache/hosted/pub.dev/pay_android-2.0.0/android/src/main/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/feline/.pub-cache/hosted/pub.dev/pay_android-2.0.0/android/src/main/AndroidManifest.xml:17:1-24:12
+	package
+		ADDED from /Users/feline/.pub-cache/hosted/pub.dev/pay_android-2.0.0/android/src/main/AndroidManifest.xml:18:3-43
+		INJECTED from /Users/feline/.pub-cache/hosted/pub.dev/pay_android-2.0.0/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/feline/.pub-cache/hosted/pub.dev/pay_android-2.0.0/android/src/main/AndroidManifest.xml:17:11-69
+application
+ADDED from /Users/feline/.pub-cache/hosted/pub.dev/pay_android-2.0.0/android/src/main/AndroidManifest.xml:19:3-23:17
+meta-data#com.google.android.gms.wallet.api.enabled
+ADDED from /Users/feline/.pub-cache/hosted/pub.dev/pay_android-2.0.0/android/src/main/AndroidManifest.xml:20:5-22:30
+	android:value
+		ADDED from /Users/feline/.pub-cache/hosted/pub.dev/pay_android-2.0.0/android/src/main/AndroidManifest.xml:22:7-27
+	android:name
+		ADDED from /Users/feline/.pub-cache/hosted/pub.dev/pay_android-2.0.0/android/src/main/AndroidManifest.xml:21:7-63
+uses-sdk
+INJECTED from /Users/feline/.pub-cache/hosted/pub.dev/pay_android-2.0.0/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/feline/.pub-cache/hosted/pub.dev/pay_android-2.0.0/android/src/main/AndroidManifest.xml
+INJECTED from /Users/feline/.pub-cache/hosted/pub.dev/pay_android-2.0.0/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/feline/.pub-cache/hosted/pub.dev/pay_android-2.0.0/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/feline/.pub-cache/hosted/pub.dev/pay_android-2.0.0/android/src/main/AndroidManifest.xml

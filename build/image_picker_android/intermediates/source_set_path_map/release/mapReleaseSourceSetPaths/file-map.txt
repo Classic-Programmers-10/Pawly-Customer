@@ -1,0 +1,28 @@
+io.flutter.plugins.imagepicker.image_picker_android-jetified-window-java-1.2.0-0 /Users/feline/.gradle/caches/transforms-3/087d2cd5b6d9a191c157e655e099cb1a/transformed/jetified-window-java-1.2.0/res
+io.flutter.plugins.imagepicker.image_picker_android-lifecycle-viewmodel-2.7.0-1 /Users/feline/.gradle/caches/transforms-3/08cb695df2bad0dff83680d00c081798/transformed/lifecycle-viewmodel-2.7.0/res
+io.flutter.plugins.imagepicker.image_picker_android-core-1.13.1-2 /Users/feline/.gradle/caches/transforms-3/14cd1493f98b58e8ca4bf9f842755430/transformed/core-1.13.1/res
+io.flutter.plugins.imagepicker.image_picker_android-lifecycle-livedata-core-2.7.0-3 /Users/feline/.gradle/caches/transforms-3/18dc7e8458e636df19cf8dc31095af74/transformed/lifecycle-livedata-core-2.7.0/res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-lifecycle-livedata-core-ktx-2.7.0-4 /Users/feline/.gradle/caches/transforms-3/4e9a819204caef74d36b87117a84353f/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-startup-runtime-1.1.1-5 /Users/feline/.gradle/caches/transforms-3/535121e5c33f2dd88901e49ac0b96c38/transformed/jetified-startup-runtime-1.1.1/res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-annotation-experimental-1.4.0-6 /Users/feline/.gradle/caches/transforms-3/55bdfc54672179f13044f30bc8278e80/transformed/jetified-annotation-experimental-1.4.0/res
+io.flutter.plugins.imagepicker.image_picker_android-lifecycle-livedata-2.7.0-7 /Users/feline/.gradle/caches/transforms-3/5d44cc9d25019df65e164336d5dbb63b/transformed/lifecycle-livedata-2.7.0/res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-core-1.0.0-8 /Users/feline/.gradle/caches/transforms-3/66647db6e817986331c1210f9df461e4/transformed/jetified-core-1.0.0/res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-savedstate-1.2.1-9 /Users/feline/.gradle/caches/transforms-3/6b9eeb7446872a3785f937705e9a53b4/transformed/jetified-savedstate-1.2.1/res
+io.flutter.plugins.imagepicker.image_picker_android-lifecycle-runtime-2.7.0-10 /Users/feline/.gradle/caches/transforms-3/711d61a6d47d1f7ef71b2666306d3498/transformed/lifecycle-runtime-2.7.0/res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-lifecycle-viewmodel-savedstate-2.7.0-11 /Users/feline/.gradle/caches/transforms-3/7fc5bb881451cd62026658410adb529d/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-lifecycle-process-2.7.0-12 /Users/feline/.gradle/caches/transforms-3/91789da708a68896ec13ad4341a6d2e6/transformed/jetified-lifecycle-process-2.7.0/res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-core-ktx-1.13.1-13 /Users/feline/.gradle/caches/transforms-3/96f99071bc4b672c51b15d19ea68fb9a/transformed/jetified-core-ktx-1.13.1/res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-activity-1.9.3-14 /Users/feline/.gradle/caches/transforms-3/abdd9f51b762aa38d0ae31c51e03a434/transformed/jetified-activity-1.9.3/res
+io.flutter.plugins.imagepicker.image_picker_android-fragment-1.7.1-15 /Users/feline/.gradle/caches/transforms-3/b2fea3b925b282167a0d199202afa993/transformed/fragment-1.7.1/res
+io.flutter.plugins.imagepicker.image_picker_android-core-runtime-2.2.0-16 /Users/feline/.gradle/caches/transforms-3/be014253f8f6b1c558e28e63d79fe92b/transformed/core-runtime-2.2.0/res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-tracing-1.2.0-17 /Users/feline/.gradle/caches/transforms-3/c484c800b2e21f2b86e399e9522351c7/transformed/jetified-tracing-1.2.0/res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-window-1.2.0-18 /Users/feline/.gradle/caches/transforms-3/c7401f4f41f460b62b4867425af081eb/transformed/jetified-window-1.2.0/res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-profileinstaller-1.3.1-19 /Users/feline/.gradle/caches/transforms-3/e657a3571c06ce918dbac8a85a34b000/transformed/jetified-profileinstaller-1.3.1/res
+io.flutter.plugins.imagepicker.image_picker_android-main-20 /Users/feline/.pub-cache/hosted/pub.dev/image_picker_android-0.8.12+20/android/src/main/res
+io.flutter.plugins.imagepicker.image_picker_android-release-21 /Users/feline/.pub-cache/hosted/pub.dev/image_picker_android-0.8.12+20/android/src/release/res
+io.flutter.plugins.imagepicker.image_picker_android-release-22 /Users/feline/Desktop/Classic Projects/pawly customer/build/flutter_plugin_android_lifecycle/intermediates/packaged_res/release/packageReleaseResources
+io.flutter.plugins.imagepicker.image_picker_android-pngs-23 /Users/feline/Desktop/Classic Projects/pawly customer/build/image_picker_android/generated/res/pngs/release
+io.flutter.plugins.imagepicker.image_picker_android-resValues-24 /Users/feline/Desktop/Classic Projects/pawly customer/build/image_picker_android/generated/res/resValues/release
+io.flutter.plugins.imagepicker.image_picker_android-mergeReleaseResources-25 /Users/feline/Desktop/Classic Projects/pawly customer/build/image_picker_android/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.imagepicker.image_picker_android-mergeReleaseResources-26 /Users/feline/Desktop/Classic Projects/pawly customer/build/image_picker_android/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.imagepicker.image_picker_android-release-27 /Users/feline/Desktop/Classic Projects/pawly customer/build/image_picker_android/intermediates/merged_res/release/mergeReleaseResources

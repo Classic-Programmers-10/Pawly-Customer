@@ -1,0 +1,26 @@
+<lint-module
+    format="1"
+    dir="/Users/feline/.pub-cache/hosted/pub.dev/nb_utils-7.0.7/android"
+    name=":nb_utils"
+    type="LIBRARY"
+    maven="com.nb.nb_utils:nb_utils:"
+    agpVersion="8.3.2"
+    buildFolder="/Users/feline/Desktop/Classic Projects/pawly customer/build/nb_utils"
+    bootClassPath="/Users/feline/Library/Android/sdk/platforms/android-34/android.jar:/Users/feline/Library/Android/sdk/build-tools/34.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="17"
+    compileTarget="android-34"
+    neverShrinking="true">
+  <lintOptions
+      disable="InvalidPackage"
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true">
+    <severities>
+      <severity
+        id="InvalidPackage"
+        severity="IGNORE" />
+    </severities>
+  </lintOptions>
+  <variant name="release"/>
+</lint-module>

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.phonepe.phonepe_payment_sdk-release-29:/color-v23/abc_tint_switch_track.xml",
+        "source": "com.phonepe.phonepe_payment_sdk-appcompat-1.3.1-21:/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "com.phonepe.phonepe_payment_sdk-release-29:/color-v23/abc_tint_spinner.xml",
+        "source": "com.phonepe.phonepe_payment_sdk-appcompat-1.3.1-21:/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "com.phonepe.phonepe_payment_sdk-release-29:/color-v23/abc_tint_btn_checkable.xml",
+        "source": "com.phonepe.phonepe_payment_sdk-appcompat-1.3.1-21:/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "com.phonepe.phonepe_payment_sdk-release-29:/color-v23/abc_btn_colored_text_material.xml",
+        "source": "com.phonepe.phonepe_payment_sdk-appcompat-1.3.1-21:/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "com.phonepe.phonepe_payment_sdk-release-29:/color-v23/abc_tint_seek_thumb.xml",
+        "source": "com.phonepe.phonepe_payment_sdk-appcompat-1.3.1-21:/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "com.phonepe.phonepe_payment_sdk-release-29:/color-v23/abc_tint_default.xml",
+        "source": "com.phonepe.phonepe_payment_sdk-appcompat-1.3.1-21:/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "com.phonepe.phonepe_payment_sdk-release-29:/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "com.phonepe.phonepe_payment_sdk-appcompat-1.3.1-21:/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "com.phonepe.phonepe_payment_sdk-release-29:/color-v23/abc_color_highlight_material.xml",
+        "source": "com.phonepe.phonepe_payment_sdk-appcompat-1.3.1-21:/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "com.phonepe.phonepe_payment_sdk-release-29:/color-v23/abc_tint_edittext.xml",
+        "source": "com.phonepe.phonepe_payment_sdk-appcompat-1.3.1-21:/color-v23/abc_tint_edittext.xml"
+    }
+]

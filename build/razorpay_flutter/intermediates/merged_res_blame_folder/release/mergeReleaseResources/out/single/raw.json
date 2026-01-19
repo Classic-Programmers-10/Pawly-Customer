@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.razorpay.razorpay_flutter-release-31:/raw/rzp_config_checkout.json",
+        "source": "com.razorpay.razorpay_flutter-jetified-standard-core-1.7.6-15:/raw/rzp_config_checkout.json"
+    },
+    {
+        "merged": "com.razorpay.razorpay_flutter-release-31:/raw/otpelf.js",
+        "source": "com.razorpay.razorpay_flutter-jetified-core-1.0.4-8:/raw/otpelf.js"
+    }
+]

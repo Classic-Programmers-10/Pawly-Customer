@@ -1,0 +1,26 @@
+<lint-module
+    format="1"
+    dir="/Users/feline/.pub-cache/git/flutter_paystack-3842a11e0a892d27d485895779de06997fbe3c23/android"
+    name=":flutter_paystack"
+    type="LIBRARY"
+    maven="co.paystack.flutterpaystack:flutter_paystack:"
+    agpVersion="8.3.2"
+    buildFolder="/Users/feline/Desktop/Classic Projects/pawly customer/build/flutter_paystack"
+    bootClassPath="/Users/feline/Library/Android/sdk/platforms/android-32/android.jar:/Users/feline/Library/Android/sdk/build-tools/34.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="17"
+    compileTarget="android-32"
+    neverShrinking="true">
+  <lintOptions
+      disable="InvalidPackage"
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true">
+    <severities>
+      <severity
+        id="InvalidPackage"
+        severity="IGNORE" />
+    </severities>
+  </lintOptions>
+  <variant name="release"/>
+</lint-module>

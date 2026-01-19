@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.nb.nb_utils-release-27:/drawable/corner.xml",
+        "source": "com.nb.nb_utils-release-23:/drawable/corner.xml"
+    },
+    {
+        "merged": "com.nb.nb_utils-release-27:/drawable/notification_bg_low.xml",
+        "source": "com.nb.nb_utils-core-1.13.1-2:/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "com.nb.nb_utils-release-27:/drawable/toast_bg.xml",
+        "source": "com.nb.nb_utils-release-23:/drawable/toast_bg.xml"
+    },
+    {
+        "merged": "com.nb.nb_utils-release-27:/drawable/notification_icon_background.xml",
+        "source": "com.nb.nb_utils-core-1.13.1-2:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "com.nb.nb_utils-release-27:/drawable/notification_bg.xml",
+        "source": "com.nb.nb_utils-core-1.13.1-2:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "com.nb.nb_utils-release-27:/drawable/notification_tile_bg.xml",
+        "source": "com.nb.nb_utils-core-1.13.1-2:/drawable/notification_tile_bg.xml"
+    }
+]
